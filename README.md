@@ -18,6 +18,7 @@ However i think the best cheap feeder design is that found in chinese machines. 
 
 * No software support required.
 * No extra machine head movement required.
+* No extra electronics required.
 * Easy to manufacture.
 * Low cost (about $1 per feeder without labor).
 
