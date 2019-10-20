@@ -4,7 +4,7 @@ Semi-automatic passive printable/castable SMD tape feeder for LitePlacer (should
 
 Watch it in action: https://www.youtube.com/watch?v=S1jxeCK4YC0
 
-Discussion: https://liteplacer.com/phpBB/viewtopic.php?f=11&t=6272
+Discussion: https://liteplacer.com/phpBB/viewtopic.php?f=11&t=6272 https://groups.google.com/forum/#!topic/openpnp/D-vYZLsAWHc
 
 ![assembled feeder](foto/20191010_142134_result.jpg "assembled feeder")
 
