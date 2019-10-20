@@ -53,6 +53,8 @@ Each mold lasts for about 10 - 20 castings (30 if you are lucky, but it slightly
 
 ![printed feeder on the substrate](foto/20191008_134800_result.jpg "printed feeder on the substrate")
 ![printed and washed feeder](foto/20191010_170213_result.jpg "printed and washed feeder")
+
+Sculpt some keys from modeling clay and glue the feeder parts with the same clay. It is said that some clays are incompatible with platinum silicones, but all my clays work fine.
 ![preparing for first half silicone molding](foto/20191008_143555_result.jpg "preparing for first half silicone molding")
 ![silicone and release agent](foto/20191008_143624_result.jpg "silicone and release agent")
 ![first half silicone curing](foto/20191008_150000_result.jpg "first half silicone curing")
@@ -94,8 +96,10 @@ Assemble the feeder.
 <!---![](foto/20191010_142910_result.jpg "silicone mold with nylon axle inserted")-->
 <!---![](foto/20191010_155337_result.jpg "template aligned to the liteplacer")-->
 
-It's time to ruin the table where the machine rests. But before this you need to determine the right Y position for your feeders. Insert some tape into the feeder and push the lever several times. Now you know that it works (hopefully) and the machine nozzle should be above the first part cell not covered by the spring. Try to find such Y position that your feeder pickup coordinate will be almost at the lowest allowed Y coordinate (it is -3 mm in case of the liteplacer, so aim to about -2 mm).
+Replace one of the screws that hold the lower linear bearing with the 35 mm screw and attach the cap nut so your machine can push the lever.
 ![feeders in place](foto/20191011_121257_result.jpg "feeders in place 4")
+
+It's time to ruin the table where the machine rests. But before this you need to determine the right Y position for your feeders. Insert some tape into the feeder and push the lever several times. Now you know that it works (hopefully) and the machine nozzle should be above the first part cell not covered by the spring. Try to find such Y position that your feeder pickup coordinate will be almost at the lowest allowed Y coordinate (it is -3 mm in case of the liteplacer, so aim to about -2 mm).
 ![feeder in action](foto/20191011_121424_result.jpg "feeder in action 1")
 <!---![feeder in action](foto/20191011_121431_result.jpg "feeder in action 2")-->
 
@@ -108,6 +112,8 @@ Punch holes at the line crossings.
 Drill 1.5 mm holes.
 ![drilling holes for the feeders](foto/20191010_162736_result.jpg "drilling holes for the feeders")
 <!---![feeders in place](foto/20191010_170919_result.jpg "feeders in place 1")-->
+
+Drill 45° 8.5 - 10 mm hole for each feeder into which the used tape will be discarded (not pictured yet). At the first time you may use existing camera hole (the camera is anyway useless with the existing liteplacer software).
 
 Screw some feeders.
 ![feeders in place](foto/20191011_121147_result.jpg "feeders in place 2")
