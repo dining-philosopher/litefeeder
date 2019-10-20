@@ -39,7 +39,7 @@ However i think the best cheap feeder design is that found in chinese machines. 
 * One M3*35 screw for machine head.
 * One plastic cap for machine head. I use M3 acorn nut https://www.aliexpress.com/item/32963279606.html , but you can use (rounded) M3 long nylon nut https://www.aliexpress.com/item/33002921745.html for better height adjustment or print your own cap.
 
-### Printing and casting
+### [Printing and casting](casting.md).
 
 You can make it with your favorite technology, but if you have no 3d printer at all, or your prints are not strong enough, and/or you prefer casting over 3d printing, you may want to read my [casting description](casting.md).
 
