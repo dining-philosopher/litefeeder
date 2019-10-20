@@ -94,7 +94,12 @@ Assemble the feeder.
 <!---![](foto/20191010_142910_result.jpg "silicone mold with nylon axle inserted")-->
 <!---![](foto/20191010_155337_result.jpg "template aligned to the liteplacer")-->
 
-It's time to ruin the table where the machine rests. Print the feeder_screw_template.pdf and stick it to the table (ideally, but not necessary, parallel to the X axis). So your feeders will sit on the table with exactly 12 mm pitch. Try to find such Y position that your feeder pickup coordinate will be almost at the lowest allowed Y coordinate (it is -3 mm in case of the liteplacer, so aim to about -2 mm).
+It's time to ruin the table where the machine rests. But before this you need to determine the right Y position for your feeders. Insert some tape into the feeder and push the lever several times. Now you know that it works (hopefully) and the machine nozzle should be above the first part cell not covered by the spring. Try to find such Y position that your feeder pickup coordinate will be almost at the lowest allowed Y coordinate (it is -3 mm in case of the liteplacer, so aim to about -2 mm).
+![feeders in place](foto/20191011_121257_result.jpg "feeders in place 4")
+![feeder in action](foto/20191011_121424_result.jpg "feeder in action 1")
+<!---![feeder in action](foto/20191011_121431_result.jpg "feeder in action 2")-->
+
+Print the feeder_screw_template.pdf and stick it to the table (ideally, but not necessary, parallel to the X axis). So your feeders will sit on the table with exactly 12 mm pitch. 
 ![template aligned to the liteplacer](foto/20191010_155356_result.jpg "template aligned to the liteplacer")
 
 Punch holes at the line crossings.
@@ -107,9 +112,6 @@ Drill 1.5 mm holes.
 Screw some feeders.
 ![feeders in place](foto/20191011_121147_result.jpg "feeders in place 2")
 <!---![feeders in place](foto/20191011_121207_result.jpg "feeders in place 3")-->
-![feeders in place](foto/20191011_121257_result.jpg "feeders in place 4")
-![feeder in action](foto/20191011_121424_result.jpg "feeder in action 1")
-<!---![feeder in action](foto/20191011_121431_result.jpg "feeder in action 2")-->
 
 Invent some reel mount and film peeling mechanism.
 ![reel mount and film peeling mechanism](foto/20191011_121715_result.jpg "reel mount and film peeling mechanism")
