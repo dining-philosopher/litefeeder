@@ -31,4 +31,4 @@ Insert nylon axle if you have them (but it also works without it).
 <!---![](foto/20191010_143008_result.jpg "silicone mold ready to casting")-->
 ![silicone mold and polyurethane ready to casting](foto/20191010_143254_result.jpg "silicone mold and polyurethane ready to casting")
 
-Extract the casting after about 40 - 50 minutes, remove spouts and vents and wait about 24 hours for polyurethane to fully cure. Or you can bake it in an oven at 60°C as the manual says.
+Extract the casting after about 40 - 50 minutes, remove spouts and vents and wait about 24 hours for polyurethane to fully cure. Or you can bake it in an oven at 60°C for 3 hours as the manual says.
