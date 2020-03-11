@@ -8,6 +8,10 @@ Discussion: https://liteplacer.com/phpBB/viewtopic.php?f=11&t=6272 https://group
 
 ![assembled feeder](foto/20191010_142134_result.jpg "assembled feeder")
 
+## Update
+
+Jed Smith made film peeler for it, so now it is fully automatic! https://groups.google.com/d/msg/openpnp/D-vYZLsAWHc/gkkAq5XVAgAJ https://loonatec.com/pnp-semi-automatic-feeder/ https://bitbucket.org/Loonatec/pnp_semi-automatic_feeder/ So please use that design until i update this page.
+
 ## General notes
 
 The design is inspired by alexavr2's alexfeeder https://github.com/alexavr2/alexfeeder https://alex-avr2.livejournal.com/210450.html and Karl Ekdahl's clockwork feeder https://liteplacer.com/phpBB/viewtopic.php?f=11&t=191 https://vimeo.com/144454867 http://www.knasmusic.com/diyeverything/pickandplace/tapefeeders.php . It is easy to manufacture as the former and requires no additional motion as the latter.
