@@ -16,7 +16,7 @@ Jed Smith made film peeler for it, so now it is fully automatic! https://groups.
 
 The design is inspired by alexavr2's alexfeeder https://github.com/alexavr2/alexfeeder https://alex-avr2.livejournal.com/210450.html and Karl Ekdahl's clockwork feeder https://liteplacer.com/phpBB/viewtopic.php?f=11&t=191 https://vimeo.com/144454867 http://www.knasmusic.com/diyeverything/pickandplace/tapefeeders.php . It is easy to manufacture as the former and requires no additional motion as the latter.
 
-However i think the best cheap feeder design is that found in chinese machines. https://youtu.be/GKw8WOlGR84?t=131 https://youtu.be/y14pdfjYsyo But it requires software support, also i did not find the tape pulling rod assembly sold separately in chinese stores, and i think it should be problematic to attach such assembly to an existing machine.
+However i think the best cheap feeder design is that found in chinese machines. https://youtu.be/GKw8WOlGR84?t=131 https://youtu.be/y14pdfjYsyo But it requires software support, ~~also i did not find the tape pulling rod assembly sold separately in chinese stores,~~ and i think it should be problematic to attach such assembly to an existing machine. UPD: Here they are: https://www.robotdigg.com/product/1641/Charmhigh-Pull-Pin-Blue-Magnet-Spring-Set-for-36VA-48VA-48VB https://www.robotdigg.com/product/561/Desktop-PnP-Mat https://www.robotdigg.com/product/560/Desktop-PnP-Tape-and-Reel-Receiving-Wheel
 
 ### Pros
 
