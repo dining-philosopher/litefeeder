@@ -36,7 +36,7 @@ However i think the best cheap feeder design is that found in chinese machines. 
 ### Parts needed
 
 * 0.5*5 mm flat spring. https://www.aliexpress.com/item/32826247091.html
-* 0.5*8*25 mm coil spring (20 mm may be fine too). https://www.aliexpress.com/item/33054199528.html
+* 0.5\*8\*25 mm coil spring (20 mm may be fine too). https://www.aliexpress.com/item/33054199528.html
 * 1.2 mm round nylon line for the tooth (1 mm may be fine too, also you can use metal pins from headers, but it requires additional filing).
 * Super glue.
 * 7*11 mm nylon spacers for the axle (optional, not needed if you print directly). https://www.aliexpress.com/item/32868508973.html
